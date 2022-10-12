@@ -6,7 +6,7 @@ Objective: To capture images of participants and display them with a calculated 
 In this file In this file will you find prerequisite on hardwares, middlewares and softwares installation along with their purposes; wiring instructions; explanations on how the module works; some limitations and corresponding approaches.
 
 Let's begin!
-<img src="./figures/intro.png" width="756" height="1008" />
+<img src="./figures/intro.png" width="1920" height="1080" />
 
 ## 1. Requirements:
 
