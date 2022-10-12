@@ -12,10 +12,13 @@ Let's begin!
 
 ### a/ Hardwares
 - MLX90640 module (IR Array Thermal Imaging Camera): To capture thermal image of participants
+<img src="./figures/hardwares/mlx90640.png" width="316" height="194" />
 
 - Raspberry Pi Camera Module: To capture visible image of participants
+<img src="./figures/hardwares/picam.png" width="335" height="284" />
 
-- Raspberry Pi 3 Model B: To collect sensor data 
+- Raspberry Pi 3 Model B: To collect sensor data
+<img src="./figures/hardwares/pi3.png" width="399" height="265" />
 
 ### b/ Middlewares
 Install Raspberry Pi OS or Ubuntu 20.04 
@@ -69,5 +72,5 @@ array in this forehead region.
 
 
 ## 6. Proof of concept:
-
+[>>> Click here <<<](./figures/proof_of_concepts/README.md)
 
