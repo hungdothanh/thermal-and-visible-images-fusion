@@ -3,7 +3,7 @@ This is a student project for a module of face detection and temperature calcula
 
 Objective: To capture images of participants and display them with a calculated facial temperature on a window.
 
-In this file In this file will you find prerequisite on hardwares, middlewares and softwares installation along with their purposes; wiring instructions; explanations on how the module works; some limitations and corresponding approaches.
+In this file will you find prerequisite on hardwares, middlewares and softwares installation along with their purposes; wiring instructions; explanations on how the module works; some limitations and corresponding approaches.
 
 Let's begin!
 <img src="./figures/intro.png" width="960" height="540" />
@@ -31,14 +31,16 @@ Lists of lib used and their main effect on the project:
 
 
 ## 2. Instructions:
+
 - Wiring diagram table (for MLX90640)
+<img src="./figures/wiring/mlx90640%20diagram.png" width="575" height="370" />
 
 - Hardwares mounting
-
+<img src="./figures/wiring/mlx90640%20diagram.png" width="452" height="437" />
 
 ## 3. Operations:
 
-[>>> Code <<<](./doc/requirements.md)
+[>>> Code <<<](./code/thermal_visible_fusion.py)
 
 - Face detection module is developed basing on the mediapipe package, and it provides a highly precise result for detected faces with
 the rate of detection can be set over 90%.
