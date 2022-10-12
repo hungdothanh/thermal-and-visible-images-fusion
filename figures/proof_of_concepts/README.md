@@ -1,8 +1,10 @@
 Below are 4 examples of detecting facial temperature with 4 different condition, which demonstrate clearly some aforementioned drawbacks of the thermal sensor MLX90640.
 
+
 * Face without mask and glasses:
 
 <img src="https://github.com/hungggdo/thermal-and-visible-images-fusion/blob/main/figures/proof_of_concepts/Face%20without%20glasses%20and%20mask.png" width="640" height="400" />
+
 
 
 * Face with only mask:
@@ -10,14 +12,17 @@ Below are 4 examples of detecting facial temperature with 4 different condition,
 <img src="https://github.com/hungggdo/thermal-and-visible-images-fusion/blob/main/figures/proof_of_concepts/Face%20with%20only%20mask.png" width="640" height="400" />
 
 
+
 * Face with only glasses:
 
 <img src="https://github.com/hungggdo/thermal-and-visible-images-fusion/blob/main/figures/proof_of_concepts/Face%20with%20only%20glasses.png" width="640" height="400" />
 
 
+
 * Face with glasses and mask:
 
 <img src="https://github.com/hungggdo/thermal-and-visible-images-fusion/blob/main/figures/proof_of_concepts/Face%20with%20glasses%20and%20mask.png" width="640" height="400" />
+
 
 
 * Full videos:
