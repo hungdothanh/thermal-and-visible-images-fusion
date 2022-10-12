@@ -36,7 +36,7 @@ Lists of lib used and their main effect on the project:
 <img src="./figures/wiring/mlx90640%20diagram.png" width="575" height="370" />
 
 - Hardwares mounting
-<img src="./figures/wiring/mlx90640%20diagram.png" width="452" height="437" />
+<img src="./figures/wiring/hardware%20mounting.png" width="452" height="437" />
 
 ## 3. Operations:
 
