@@ -27,6 +27,7 @@ Lists of lib used and their main effect on the project:
 * Mediapiipe: https://google.github.io/mediapipe/
 * Numpy: https://numpy.org/
 * Scipy: https://scipy.org/
+* Adafruit_MLX90640: https://github.com/adafruit/Adafruit_MLX90640.git
 
 
 ## 2. Instructions:
