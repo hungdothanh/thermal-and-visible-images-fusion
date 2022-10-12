@@ -1,7 +1,7 @@
 # thermal-and-visible-images-fusion
 This is a student project for a module of face detection and temperature calculation.
 
-Objective: To capture images of participants and display them with a calculated facial temperature on a window.
+Objective: To capture thermal and visual images of participants, fuse them and figure out the facial temperature for further implementations (thermal data published onto a server, then subscribed into the docker of Ohmni robot for other projects) 
 
 In this file will you find prerequisite on hardwares, middlewares and softwares installation along with their purposes; wiring instructions; explanations on how the module works; some limitations and corresponding approaches.
 
